@@ -1,26 +1,32 @@
-# java-maven-practice
+# ☕ java-maven-practice
 
-This repository is used to practice Java development using Maven.
+A simple Java project created to practice Java development using Maven as the build and dependency management tool.
 
-## Purpose
+This repository is intended for learning, experimentation, and hands-on practice with Maven-based Java projects.
 
-The main goal of this project is to learn and understand:
-- Maven project structure
-- `pom.xml` configuration
-- Dependency management
-- Basic Java application setup using Maven
+---
 
-This is a learning and experimentation repository.
+## 🎯 Purpose
 
-## Project Type
+The main goal of this project is to understand and practice:
 
-- Language: Java
-- Build tool: Maven
-- IDE: IntelliJ IDEA
+- Maven project structure  
+- `pom.xml` configuration  
+- Dependency management  
+- Build lifecycle (`clean`, `compile`, `test`, `package`)  
+- Basic Java application setup using Maven  
 
-## How to Run
+This is a sandbox repository for experimenting with Java + Maven concepts.
 
-1. Make sure you have Java and Maven installed.
-2. Build the project using:
-   ```bash
-   mvn clean package
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Java  
+- **Build Tool:** Maven  
+- **IDE:** IntelliJ IDEA  
+
+---
+
+## 📁 Project Structure
+
